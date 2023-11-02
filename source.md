@@ -5,14 +5,13 @@ class: center, middle
 Yichen Wang
 
 https://yichenwangs.github.io
-
+<br>
 yichen.wang@anu.edu.au
 
-<font  size="3">
-SMCC Lab<br> 
-https://charlesmartin.au/lab/ <br>
+<font size="3">
+<a href="https://charlesmartin.au/lab/">SMCC Lab</a>
+ <br>
 School of Computing<br>
-<!-- College of Engineering, Computing and Cybernetics <br> -->
 Australian National University <br>
 </font>
 
@@ -21,7 +20,7 @@ Australian National University <br>
 Yichen - a phd student.
 from Australia 
 smcclab.
-hci & creativity support tools and "entangled"
+hci & creativity support tools and "entangled" nature of this human-machine relationship.
 my preso today - share projects i've been working on and reflections i gained.
 
 musically
@@ -38,28 +37,37 @@ class: center, middle
 - MR according to the Reality–Virtuality Continuum. VR or not.
 - MR as a Combination of AR and VR.  mix of use.
 - MR as “strong” AR. 
- number of environments, number of users, level of immersion, level of virtuality, degree of interac- tion, input, and output.
-
-QR code and holosen
+ number of environments, number of users, level of immersion, level of virtuality, degree of interaction, input, and output.
+- "ubiquitous lived experience" with digital items that we interact everyday
+- *music*
 ---
 
-## Spatial Engagement with Virtual Content in Reality
+## Spatial Engagement with Digital Content in Reality
 
-|.cetner[![:img 110%](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Inp0eWh2Zm40LzExNjExMjk4MzUxMjMyLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19)]| .right[![:img 70%](./img/yarmi.jpg)]|
-|:--:|:--:| 
-<!-- |.center[Fosh et al., CHI'13] | .center[Laurenzow et al., NIME'09]| -->
 
-|.center[![:img 100%](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im5oZXVmbTZ1LzYxNjQyODc0NzY3NjE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=)]|.right[![:img 90%](https://cdn.trendhunterstatic.com/thumbs/music-everywhere.jpeg?auto=webp)]
+
+|.left[![:img 90%](./img/chi-scultpure.jpg)]|.center[![:img 100%](./img/yarmi.png)]
 |:--:|:--:| 
-<!-- |.center[Glickman et al., NIME'17] |.right[Wu and Freemand, NIME'21]| -->
+
+|.left[![:img 100%](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im5oZXVmbTZ1LzYxNjQyODc0NzY3NjE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=)]|.right[![:img 90%](https://cdn.trendhunterstatic.com/thumbs/music-everywhere.jpeg?auto=webp)]
+|:--:|:--:| 
+<center>
+<font size="2"> (Fosh et al. CHI'13); (Laurenzow et al., NIME'09); (Glickman et al., NIME'17); (Wu and Freemand, NIME'21).
+</font>
+</center>>
 
 ???
-audio, visual, interaction
-- Curated artistic experiences
-  - augmented experience keywords and etc.
-- Creativity support tools - digital musical instrument
-  - musical learning, expressive interface, performance, collaboration
+To put my work in context
 
+I'm interested in how mixed reality is interpreted in computer music/creativity support tools
+for artists/musicians researchers practices
+"Support open interchange."
+"Low threshold, high ceiling, and wide walls."
+
+what is the conclusion of musical work here?
+Different uses, works were unfolded from different perspectives, public, stakeholders, targeted ppl.
+
+Better more in-depth understandings ../
 
 ---
 
@@ -85,7 +93,7 @@ audio, visual, interaction
 ???
 
 Mixed reality affordance 
-I wanted to understand what was an instrument playing experience in mixed reality and what was a genuine design, through *free hand interaction*
+I wanted to understand what was an instrument playing experience in mixed reality and what was a genuine design, through this intimate *free hand interaction*
 
 - defining requirements using themselves as a user, getting an empathic understanding of a situation [6, 59], 
 - experimenting and tinkering with ideas with their own bodies [16], 
@@ -100,17 +108,6 @@ class: center, middle
 </figure>
 
 OzCHI 2022 Creativity Track
-
----
-class: center, middle
-
-<figure class="video_container">
-  <iframe width="700" height="400" src="https://www.youtube.com/embed/gQ5jUTbto1M?si=3XJBM6gyQZJC2WrN&amp;start=239" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</figure>
-
-NIME2023 Music Track 
-
-
 
 ---
 ## Performing by others 
@@ -134,7 +131,13 @@ NIME2023 Music Track
 - **Spatial dimension** of musical interface & **mobility** in music-making
 
 ???
-While using this for my own practice, i
+How about other musicians using this instrument? What do they think about it?
+
+Make it to entanglement and addressing the spatial and mobility of those felt quality of instrument experience, <- and look back at my work:
+
+"mobility in music making" - musicians were aware the tension with space, and how that engage with music or sound they create through gestures in space!!!
+
+
 
 --
 
@@ -154,41 +157,61 @@ say you want to perform with others, using other instruments, in the reality you
 ---
 ## Performing _with_ others?
 
+--
+
 <center>
 <figure class="video_container">
-<iframe width="700" height="400" src="https://www.youtube.com/embed/FlxCFe836ig?si=0diDT1PseMeRqmW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/5QUpw_7yZqU?si=Cxig-FPmiIqYihtK&amp;start=57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
+beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 </center>
 
 
 ---
-## Performing with others in Digital Music Ensemble
+<!-- ## Performing with others in Digital Music Ensemble -->
+## Ecological Dynamics in Digital Music Ensemble
 
-|.center[![:img 110%](https://comp.anu.edu.au/courses/laptop-ensemble/assets/photos/2019-rehearsal-weitong.jpg)]| .right[![:img 85%](https://eventshow.cz/sites/default/files/eventshow/gallery/reactable_001_0.jpg)]
+|.center[![:img 200%](./img/live-coding-instrumentalists.png)]| .right[![:img 60%](https://eventshow.cz/sites/default/files/eventshow/gallery/reactable_001_0.jpg)]
 |:--:|:--:| 
-| ANU LENS | Reactable|
+
 
 --
 
-- The "visibility" issue in digital orchestras (Dahl, NIME'12; Berthaut & Dahl NIME'20)
+- Multi-user collaborative interface: awareness, control of action, information availability. (Yuill & Rodgers, TOCHI'12; Xambó et al., TOCHI'13)
 
 --
 
-- Group creativity: musical gestures for communication (Bishop 2018)
+- Performance ecosystem, Agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19)
 
 --
 
-- Multi-user collaborative interface: awareness, control of action & information availability. (Yuill & Rodgers, TOCHI'12; Xambó et al., TOCHI'13)
+- The "visibility" issue in digital orchestras (Dahl, NIME'12; Berthaut & Dahl NIME'20); Group creativity: musical gestures for communication. (Bishop 2018)
 
---
+
+
+???
+
+Social interaction, cultural implication
+- continuation in process when making music
+- human actors and artefacts, human offload our cognitive processes in the tools 
+- entanglement
+
 ---
-## Spatial Music Collaboration?
+## Current work
 
+<center>
+<figure class="video_container">
+<iframe width="700" height="400" src="https://www.youtube.com/embed/X6kQouxTiWM?si=fLiMj3K8Is1jwgan&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+</figure>
+</center>
 
----
-## Next
+???
 
+What will be entailed in terms of collaboration here, this limited space, and the inclusion of previous work together
 
+agency study and entanglement "plurality"
 
+What i want to understand, is what were the experiences for performers in computer music, visibility issue or not?
+What are other potential patterns offload in this ecological system? and how we can better support this in mr
 
