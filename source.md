@@ -17,13 +17,13 @@ Australian National University <br>
 
 
 ???
-Yichen - a phd student.
-from Australia 
-smcclab.
-hci & creativity support tools and "entangled" nature of this human-machine relationship.
-my preso today - share projects i've been working on and reflections i gained.
+- Yichen - a phd student from Australia.
+- Smcclab.
+- Hci & creativity support tools and "entangled" nature of within this interaction human-machine relationship.
+- My preso today - share projects i've been working on and reflections of the mixed reality,
+on music aspect.
 
-musically
+- The use of space is embedded
 ---
 
 class: center, middle
@@ -34,16 +34,17 @@ class: center, middle
 
 ???
 
+The context that my work rests on.
 - MR according to the Reality–Virtuality Continuum. VR or not.
 - MR as a Combination of AR and VR.  mix of use.
 - MR as “strong” AR. 
  number of environments, number of users, level of immersion, level of virtuality, degree of interaction, input, and output.
-- "ubiquitous lived experience" with digital items that we interact everyday
-- *music*
+ To me, MR means an environment affords
+- "ubiquitous lived experience" that we have through interactions with digital items every day.
+- *music* activities
 ---
 
-## Spatial Engagement with Digital Content in Reality
-
+## Lived Experience with Digital Content for Creativity
 
 
 |.left[![:img 90%](./img/chi-scultpure.jpg)]|.center[![:img 100%](./img/yarmi.png)]
@@ -52,14 +53,14 @@ class: center, middle
 |.left[![:img 100%](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im5oZXVmbTZ1LzYxNjQyODc0NzY3NjE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=)]|.right[![:img 90%](https://cdn.trendhunterstatic.com/thumbs/music-everywhere.jpeg?auto=webp)]
 |:--:|:--:| 
 <center>
-<font size="2"> (Fosh et al. CHI'13); (Laurenzow et al., NIME'09); (Glickman et al., NIME'17); (Wu and Freemand, NIME'21).
+<font size="2"> (Fosh et al. CHI'13); (Laurenzow et al., NIME'09); (Arslan et al., NIME22); (Glickman et al., NIME'17).
 </font>
 </center>>
 
 ???
 To put my work in context
 
-I'm interested in how mixed reality is interpreted in computer music/creativity support tools
+I'm interested in how mixed reality is interested in computer music/creativity support tools
 for artists/musicians researchers practices
 "Support open interchange."
 "Low threshold, high ceiling, and wide walls."
@@ -67,6 +68,7 @@ for artists/musicians researchers practices
 what is the conclusion of musical work here?
 Different uses, works were unfolded from different perspectives, public, stakeholders, targeted ppl.
 
+I'm taking a perspective of performers 
 Better more in-depth understandings ../
 
 ---
@@ -131,7 +133,7 @@ OzCHI 2022 Creativity Track
 - **Spatial dimension** of musical interface & **mobility** in music-making
 
 ???
-How about other musicians using this instrument? What do they think about it?
+How about other performers using this instrument? What do they think about it?
 
 Make it to entanglement and addressing the spatial and mobility of those felt quality of instrument experience, <- and look back at my work:
 
@@ -181,19 +183,25 @@ beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 
 --
 
-- Performance ecosystem, Agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19)
+- The "visibility" issue in digital orchestras (Dahl, NIME'12; Berthaut & Dahl NIME'20); Group creativity: musical gestures for communication. (Bishop 2018)
 
 --
 
-- The "visibility" issue in digital orchestras (Dahl, NIME'12; Berthaut & Dahl NIME'20); Group creativity: musical gestures for communication. (Bishop 2018)
+- Performance ecosystem, Agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19)
+
+
 
 
 
 ???
 
+Fine grounded problem have been addressed in nime and hci community
+
+promote this  to a broader context:
 Social interaction, cultural implication
-- continuation in process when making music
-- human actors and artefacts, human offload our cognitive processes in the tools 
+
+- human actors and artifacts, human offload our cognitive processes in the tools 
+- continuation in process when making music/live activities
 - entanglement
 
 ---
@@ -208,10 +216,17 @@ Social interaction, cultural implication
 
 ???
 
-What will be entailed in terms of collaboration here, this limited space, and the inclusion of previous work together
 
-agency study and entanglement "plurality"
+What will be entailed in terms of collaboration here in mixed reality,
+with large dynamics of information flow, and creativity?
+ this limited space, and the inclusion of previous work together
+
 
 What i want to understand, is what were the experiences for performers in computer music, visibility issue or not?
 What are other potential patterns offload in this ecological system? and how we can better support this in mr
+
+
+to support awareness, 
+
+agency study and entanglement "plurality"
 
