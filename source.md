@@ -1,82 +1,35 @@
 class: center, middle
 
-# Spatial <font color="#9900FF" size="5">(Mixed Reality)</font> Musical Instrument <br>in Design and Ensemble
+# On Tangible Sonic Space 
+
+#### Spatial Musical Expression Design, Performance and in Co-creation
 
 Yichen Wang
 
-https://yichenwangs.github.io
-<br>
-yichen.wang@anu.edu.au
+_yichen.wang@anu.edu.au_
 
-<font size="3">
-<a href="https://charlesmartin.au/lab/">SMCC Lab</a>
- <br>
 School of Computing<br>
 Australian National University <br>
-</font>
 
-
-???
-- Yichen - a phd student from Australia.
-- Smcclab.
-- Hci & creativity support tools and "entangled" nature of within this interaction human-machine relationship.
-- My preso today - share projects i've been working on and reflections of the mixed reality,
-on music aspect.
-
-- The use of space is embedded
 ---
 
-class: center, middle
-
-# What is Mixed Reality? <font size="3"> (Speicher et al., CHI'19)</font>
-
-
-
-???
-
-The context that my work rests on.
-- MR according to the Reality–Virtuality Continuum. VR or not.
-- MR as a Combination of AR and VR.  mix of use.
-- MR as “strong” AR. 
- number of environments, number of users, level of immersion, level of virtuality, degree of interaction, input, and output.
- To me, MR means an environment affords
-- "ubiquitous lived experience" that we have through interactions with digital items every day.
-- *music* activities
----
-
-## Lived Experience with Digital Content for Creativity
-
-
-|.left[![:img 90%](./img/chi-scultpure.jpg)]|.center[![:img 100%](./img/yarmi.png)]
-|:--:|:--:| 
-
-|.left[![:img 100%](https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Im5oZXVmbTZ1LzYxNjQyODc0NzY3NjE3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=)]|.right[![:img 90%](https://cdn.trendhunterstatic.com/thumbs/music-everywhere.jpeg?auto=webp)]
-|:--:|:--:| 
+# Begins ... 
 <center>
-<font size="2"> (Fosh et al. CHI'13); (Laurenzow et al., NIME'09); (Arslan et al., NIME22); (Glickman et al., NIME'17).
-</font>
-</center>>
+<img src="./img/story-pic.png" width="100%" >
+</center>
 
-???
-To put my work in context
+--
 
-I'm interested in how mixed reality is interested in computer music/creativity support tools
-for artists/musicians researchers practices
-"Support open interchange."
-"Low threshold, high ceiling, and wide walls."
-
-what is the conclusion of musical work here?
-Different uses, works were unfolded from different perspectives, public, stakeholders, targeted ppl.
-
-I'm taking a perspective of performers 
-Better more in-depth understandings ../
+### How can you make music in mixed reality?
 
 ---
 
-# _isometric-sen_
-### a self-contained digital musical instrument designed for a head-mouted AR system
+# isometric-sen
+#### A self-contained digital musical instrument designed for a mixed reality headset
+
 <center>
-<img src="./img/cubing-sound-inapp.jpg" width="450">
+<img src="./img/cubing-sound-inapp.jpg" height="200px">
+<img src="./img/yichen-cube-performance.jpg" height="200px" >
 </center>
 
 --
@@ -94,22 +47,15 @@ Better more in-depth understandings ../
 
 ???
 
+Can we reach the virtuosity that what we normally do in music practice?
 Mixed reality affordance 
+
 I wanted to understand what was an instrument playing experience in mixed reality and what was a genuine design, through this intimate *free hand interaction*
 
 - defining requirements using themselves as a user, getting an empathic understanding of a situation [6, 59], 
 - experimenting and tinkering with ideas with their own bodies [16], 
 - performing in context early prototypes, [7, 38] and 
 - experiencing and testing a design through self-usage [3].
-
----
-class: center, middle
-
-<figure class="video_container">
-  <iframe width="700" height="400" src="https://www.youtube.com/embed/zTFF5Vg7ctI?si=5pnRYLzVH67umCDQ&amp;start=3166" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</figure>
-
-OzCHI 2022 Creativity Track
 
 ---
 ## Performing by others 
@@ -126,11 +72,11 @@ OzCHI 2022 Creativity Track
 
 “a new view of how music can work in a different way”
 
-“discover new possibilities and new combos within the same zone and the same instrument”.
+“discover new possibilities and new combos within the same zone and the same instrument”
 
 --
 
-- **Spatial dimension** of musical interface & **mobility** in music-making
+- **Spatial dimension** of musical interface & **mobility** in music-making.
 
 ???
 How about other performers using this instrument? What do they think about it?
@@ -139,6 +85,8 @@ Make it to entanglement and addressing the spatial and mobility of those felt qu
 
 "mobility in music making" - musicians were aware the tension with space, and how that engage with music or sound they create through gestures in space!!!
 
+
+"different insights" to me -- the spatial evolves to me
 
 
 --
@@ -157,21 +105,20 @@ so far we only talk about individual experiences
 say you want to perform with others, using other instruments, in the reality you are supposed to engage with it more
 
 ---
-## Performing _with_ others?
-
---
+## Performing _with_ others
 
 <center>
 <figure class="video_container">
-<iframe width="700" height="400" src="https://www.youtube.com/embed/5QUpw_7yZqU?si=Cxig-FPmiIqYihtK&amp;start=57" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%vw" height="400" src="https://www.youtube.com/embed/86yEZquWsPs?si=gj9SYXm2n6FBmqvd&amp;start=1578" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
+Andromeda is Coming. // feat. Charles Martin @ANU 2024
+<br>
 beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 </center>
 
 
 ---
-<!-- ## Performing with others in Digital Music Ensemble -->
-## Ecological Dynamics in Digital Music Ensemble
+### Ecological Dynamics in Digital Musical Ensemble
 
 |.center[![:img 200%](./img/live-coding-instrumentalists.png)]| .right[![:img 60%](https://eventshow.cz/sites/default/files/eventshow/gallery/reactable_001_0.jpg)]
 |:--:|:--:| 
@@ -187,7 +134,7 @@ beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 
 --
 
-- Performance ecosystem, Agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19)
+- Performance ecosystem, Entangled agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19)
 
 
 
@@ -205,21 +152,28 @@ Social interaction, cultural implication
 - entanglement
 
 ---
-## Current work
+### Networked Collaborative Musical Expression 
 
 <center>
-<figure class="video_container">
-<iframe width="700" height="400" src="https://www.youtube.com/embed/X6kQouxTiWM?si=fLiMj3K8Is1jwgan&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</figure>
+<img src="./img/collab-ar-system.png" alt="collab-ar-system" width="70%vw" height = "5%vh">
 </center>
+--
+
+- **Spatial communication interface** for human and machine creativity.
+
+--
+
+- Two essential **musical interaction** information.
+
+--
+
+- Portable across various collaborative situations through a WebSocket **network infrastructure**.
 
 ???
 
-
-What will be entailed in terms of collaboration here in mixed reality,
-with large dynamics of information flow, and creativity?
- this limited space, and the inclusion of previous work together
+Spatial communication interface for human and machine creativity.
+Two essential musical interaction information.
+Portable across various collaborative situations through a WebSocket network infrastructure.
 
 
 What i want to understand, is what were the experiences for performers in computer music, visibility issue or not?
@@ -230,3 +184,63 @@ to support awareness,
 
 agency study and entanglement "plurality"
 
+---
+
+### Networked Collaborative Musical Expression
+
+<center>
+<figure class="video_container">
+<video width="100%vw" height="400px" controls>
+  <source src="./img/collated-collab-ar-demo-new.mp4" type="video/mp4">
+</video>
+</figure>
+Unpspoken // Sandy Ma & Yichen Wang @ NIME 2024 (to appear)
+<br>
+Off-the-Self // @ AIMC 2024 (to appear)
+<br>
+Ongoing User Studies Snaps
+</center>
+
+---
+
+# Outwards. 
+--
+
+### Beyond communication
+
+<div style="display: flex; justify-content:center;">
+
+<img src="./img/som-gig.jpg" alt="collab-ar-system" height = "300px" >
+
+
+- The **metaphoric** presence in the mixed reality space.
+--
+
+- The hyperreal mind-body reflection in **sound making**.
+--
+
+- It's **_always_** about creativity that brings back to us.
+--
+</div>
+
+---
+## Yichen Wang 
+
+<span style="font-size:1em;">
+🪩 Spatial Musical Expression(AR/VR), Co-Creativity, HCI </span>
+
+💼 Looking for **Postdoc** position early/mid next year. **Please get in touch!**
+
+📬 yichen.wang@anu.edu.au | https://yichenwangs.github.io
+<div style="display: block; ">
+<center>
+<img src="./img/yichen-off-the-shelf.JPG" alt="cubes" height = "150" >
+<img src="./img/sound-exploration.jpeg" alt="sound-exploration" height = "150px" >
+<img src="./img/unspoken-thumbnail.jpeg" alt="unspoken" height = "150px" >
+<img src="./img/collab-ar-system.png" alt="collab-ar-system" height = "150px" >
+<img src="./img/teaser-2-warm.jpg" alt="sound-exploration" height = "100px" >
+<img src="./img/study-excerpt.png" alt="study" height = "100px" >
+<img src="./img/cubing-sound-inapp.jpg" alt="cubes" height = "100px" >
+
+</center>
+</div>
