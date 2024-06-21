@@ -4,6 +4,7 @@ class: center, middle
 
 #### Spatial Musical Expression Design, Performance and in Co-creation
 
+
 Yichen Wang
 
 _yichen.wang@anu.edu.au_
@@ -11,16 +12,36 @@ _yichen.wang@anu.edu.au_
 School of Computing<br>
 Australian National University <br>
 
+???
+
+I'm Yichen, a third year PhD researcher in computer music from ANU. 
+
+Today in my talk, I'd like to uncover the artistic side story behind my research work in new musical interface design in the MR environment.
+
+Titled as ...
+
 ---
 
-# Begins ... 
+# Nerding Out ... 
 <center>
 <img src="./img/story-pic.png" width="100%" >
 </center>
 
 --
 
-### How can you make music in mixed reality?
+### How can you make music in mixed reality using hands?
+
+???
+
+It begins with this picture:
+Formally trained as a computer scientist with an artistic spirit in my soul,
+I started to nerd out - how can you make music in MR this advanced technical devices .
+What kind of futuristic instrument that can support playful/creative experiences, can we make it more aesthetic?
+
+With this motivation, I started with a first-person approach -- ok 
+imagining as a musician myself computer music space - should be electronic and futuristic ...
+
+3D primitives - obviously it was not the best given the inaccuracy - but i really appreciate
 
 ---
 
@@ -31,6 +52,10 @@ Australian National University <br>
 <img src="./img/cubing-sound-inapp.jpg" height="200px">
 <img src="./img/yichen-cube-performance.jpg" height="200px" >
 </center>
+
+--
+
+- Freehand interactions, poly-synthesised tonal texture/ambient. 
 
 --
 
@@ -47,8 +72,15 @@ Australian National University <br>
 
 ???
 
+after a few iterations i landed with this instrument 
+designed in a way that is ...
+
+I'm still using the instrument as part of my practice.
+
 Can we reach the virtuosity that what we normally do in music practice?
 Mixed reality affordance 
+
+
 
 I wanted to understand what was an instrument playing experience in mixed reality and what was a genuine design, through this intimate *free hand interaction*
 
@@ -61,7 +93,7 @@ I wanted to understand what was an instrument playing experience in mixed realit
 ## Performing by others 
 
 <center>
-<img src="./img/teaser-2-warm.jpg" width="600">
+<img src="./img/teaser-2-warm.jpg" height="230px">
 </center>
 
 --
@@ -76,18 +108,7 @@ I wanted to understand what was an instrument playing experience in mixed realit
 
 --
 
-- **Spatial dimension** of musical interface & **mobility** in music-making.
-
-???
-How about other performers using this instrument? What do they think about it?
-
-Make it to entanglement and addressing the spatial and mobility of those felt quality of instrument experience, <- and look back at my work:
-
-"mobility in music making" - musicians were aware the tension with space, and how that engage with music or sound they create through gestures in space!!!
-
-
-"different insights" to me -- the spatial evolves to me
-
+- The **_tagibility_** of **spatial dimension** of musical interface & **mobility** in music-making.
 
 --
 
@@ -97,12 +118,12 @@ Make it to entanglement and addressing the spatial and mobility of those felt qu
 </font>
 </p>
 
-
 ???
+How about other performers using this instrument? What do they think about it?
 
-so far we only talk about individual experiences
-
-say you want to perform with others, using other instruments, in the reality you are supposed to engage with it more
+Reflections from other musicians presented a different perspective to me:
+It was them pointed out the tangibility of spatial dimension,
+the awareness the tension with space, and how sound is created within this relationship. 
 
 ---
 ## Performing _with_ others
@@ -116,14 +137,19 @@ Andromeda is Coming. // feat. Charles Martin @ANU 2024
 beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 </center>
 
+???
+
+So far we only talk about individual experiences
+What about performing with others in a collaborative context?
+
 
 ---
 ### Ecological Dynamics in Digital Musical Ensemble
 
-|.center[![:img 200%](./img/live-coding-instrumentalists.png)]| .right[![:img 60%](https://eventshow.cz/sites/default/files/eventshow/gallery/reactable_001_0.jpg)]
-|:--:|:--:| 
-
-
+<center>
+<img src="https://eventshow.cz/sites/default/files/eventshow/gallery/reactable_001_0.jpg" alt="sound-exploration" height = "200px" >
+<img src="./img/live-coding-instrumentalists.png" alt="cubes" height = "200px" >
+</center>
 --
 
 - Multi-user collaborative interface: awareness, control of action, information availability. (Yuill & Rodgers, TOCHI'12; Xambó et al., TOCHI'13)
@@ -134,26 +160,23 @@ beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 
 --
 
-- Performance ecosystem, Entangled agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19)
-
+- Performance ecosystem, Entangled agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19; Morrison & McPherson CHI'24)
 
 
 
 
 ???
 
-Fine grounded problem have been addressed in nime and hci community
+There are a lot of underlying fine grounded issues that have been addressed in NIME and HCI communities.
+Fine grounded problem have been addressed in nime and hci community.
 
-promote this  to a broader context:
-Social interaction, cultural implication
-
-- human actors and artifacts, human offload our cognitive processes in the tools 
-- continuation in process when making music/live activities
-- entanglement
+First, it is about the design of the interface that can share.
+Secondly, in the specific musical context, these are grounded into the communication issue.
+Most importantly, as I believe we all know here, that it's not only about completing a task, it's performances that has many performative/experience-based flow qualities with in. 
 
 ---
 ### Networked Collaborative Musical Expression 
-
+##### `*Bridging Human-AI Co-creation*`
 <center>
 <img src="./img/collab-ar-system.png" alt="collab-ar-system" width="70%vw" height = "5%vh">
 </center>
@@ -171,23 +194,17 @@ Social interaction, cultural implication
 
 ???
 
+Thus i moved to a design of ---
+that i want it to go to a meta applicability -- works across different systems.
+
 Spatial communication interface for human and machine creativity.
 Two essential musical interaction information.
 Portable across various collaborative situations through a WebSocket network infrastructure.
 
-
-What i want to understand, is what were the experiences for performers in computer music, visibility issue or not?
-What are other potential patterns offload in this ecological system? and how we can better support this in mr
-
-
-to support awareness, 
-
-agency study and entanglement "plurality"
-
 ---
 
 ### Networked Collaborative Musical Expression
-
+##### `*Bridging Human-AI Co-creation*`
 <center>
 <figure class="video_container">
 <video width="100%vw" height="400px" controls>
@@ -196,7 +213,7 @@ agency study and entanglement "plurality"
 </figure>
 Unpspoken // Sandy Ma & Yichen Wang @ NIME 2024 (to appear)
 <br>
-Off-the-Self // @ AIMC 2024 (to appear)
+Off-the-Self // Yichen Wang & Charles Martin @ AIMC 2024 (to appear)
 <br>
 Ongoing User Studies Snaps
 </center>
@@ -208,26 +225,30 @@ Ongoing User Studies Snaps
 
 ### Beyond communication
 
+--
+
 <div style="display: flex; justify-content:center;">
 
 <img src="./img/som-gig.jpg" alt="collab-ar-system" height = "300px" >
 
 
-- The **metaphoric** presence in the mixed reality space.
+- The **metaphoric** presence of us in the mixed reality space.
 --
 
-- The hyperreal mind-body reflection in **sound making**.
+- The mind-body reflection in **sound making**.
 --
 
 - It's **_always_** about creativity that brings back to us.
---
-</div>
+
+
+???
+
+address back to tangibility and sound.
 
 ---
-## Yichen Wang 
+## Yichen Wang <div style="display: inline; margin: 10px; position:fixed;"> <img src="./img/title.png" alt="cubes" height = "70px" > </div>
 
-<span style="font-size:1em;">
-🪩 Spatial Musical Expression(AR/VR), Co-Creativity, HCI </span>
+🪩 Spatial Musical Expression (AR/VR), Co-Creativity, HCI </span>
 
 💼 Looking for **Postdoc** position early/mid next year. **Please get in touch!**
 
@@ -241,6 +262,5 @@ Ongoing User Studies Snaps
 <img src="./img/teaser-2-warm.jpg" alt="sound-exploration" height = "100px" >
 <img src="./img/study-excerpt.png" alt="study" height = "100px" >
 <img src="./img/cubing-sound-inapp.jpg" alt="cubes" height = "100px" >
-
 </center>
 </div>
