@@ -12,6 +12,9 @@ _yichen.wang@anu.edu.au_
 School of Computing<br>
 Australian National University <br>
 
+
+Data 61, CSIRO
+
 ???
 
 I'm Yichen, a third year PhD researcher in computer music from ANU. 
@@ -29,20 +32,21 @@ Titled as ...
 
 --
 
-### How can you make music in mixed reality using hands?
+### How can you make music in mixed reality?
 
 ???
 
 It begins with this picture:
 Formally trained as a computer scientist with an artistic spirit in my soul,
-I started to nerd out - how can you make music in MR this advanced technical devices .
-What kind of futuristic instrument that can support playful/creative experiences, can we make it more aesthetic?
+I got really hooked up - how can you make music in MR with advanced headset devices having freehand interaction.
+What kind of futuristic instrument that can be created to support playful/creative experiences, can we make it more aesthetic?
 
-With this motivation, I started with a first-person approach -- ok 
+Having these thoughts, I started with a first-person approach -- ok 
 imagining as a musician myself computer music space - should be electronic and futuristic ...
 
 3D primitives - obviously it was not the best given the inaccuracy - but i really appreciate
 
+it was even worse than the electronic one - no haptic feedback
 ---
 
 # isometric-sen
@@ -64,30 +68,22 @@ imagining as a musician myself computer music space - should be electronic and f
 --
 
 <p style="text-align: center;">
-<font size ="0.3em" color= "grey">
-  Wang, Y., & Martin, C. (2022). Cubing Sound: Designing a NIME for Head-mounted Augmented Reality. NIME 2022. https://doi.org/10.21428/92fbeb44.b540aa59
+<font size ="1em" color= "grey">
+  Wang, Y., & Martin, C. (2022). Cubing Sound: Designing a NIME for Head-mounted Augmented Reality. NIME 2022. <br>
+  https://doi.org/10.21428/92fbeb44.b540aa59
 </font>
 </p>
 
 
 ???
 
-after a few iterations i landed with this instrument 
+After a few iterations i landed with this instrument 
 designed in a way that is ...
 
 I'm still using the instrument as part of my practice.
 
 Can we reach the virtuosity that what we normally do in music practice?
 Mixed reality affordance 
-
-
-
-I wanted to understand what was an instrument playing experience in mixed reality and what was a genuine design, through this intimate *free hand interaction*
-
-- defining requirements using themselves as a user, getting an empathic understanding of a situation [6, 59], 
-- experimenting and tinkering with ideas with their own bodies [16], 
-- performing in context early prototypes, [7, 38] and 
-- experiencing and testing a design through self-usage [3].
 
 ---
 ## Performing by others 
@@ -121,7 +117,7 @@ I wanted to understand what was an instrument playing experience in mixed realit
 ???
 How about other performers using this instrument? What do they think about it?
 
-Reflections from other musicians presented a different perspective to me:
+ a different perspective that consolidate the design by me in hinder sight.
 It was them pointed out the tangibility of spatial dimension,
 the awareness the tension with space, and how sound is created within this relationship. 
 
@@ -140,7 +136,8 @@ beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 ???
 
 So far we only talk about individual experiences
-What about performing with others in a collaborative context?
+But music is fundamentally social
+So i took out this instrument to improvise with others in a collaborative context?
 
 
 ---
@@ -167,7 +164,6 @@ What about performing with others in a collaborative context?
 
 ???
 
-There are a lot of underlying fine grounded issues that have been addressed in NIME and HCI communities.
 Fine grounded problem have been addressed in nime and hci community.
 
 First, it is about the design of the interface that can share.
@@ -184,7 +180,6 @@ Most importantly, as I believe we all know here, that it's not only about comple
 
 - **Spatial communication interface** for human and machine creativity.
 
---
 
 - Two essential **musical interaction** information.
 
@@ -194,7 +189,7 @@ Most importantly, as I believe we all know here, that it's not only about comple
 
 ???
 
-Thus i moved to a design of ---
+Thus it led to my current work to creative a collaborative expression 
 that i want it to go to a meta applicability -- works across different systems.
 
 Spatial communication interface for human and machine creativity.
@@ -232,10 +227,10 @@ Ongoing User Studies Snaps
 <img src="./img/som-gig.jpg" alt="collab-ar-system" height = "300px" >
 
 
-- The **metaphoric** presence of us in the mixed reality space.
+- The **metaphoric** presence of musicians in the mixed reality space.
 --
 
-- The mind-body reflection in **sound making**.
+- The mind-body reflection during the **sound making** process.
 --
 
 - It's **_always_** about creativity that brings back to us.
@@ -252,7 +247,8 @@ address back to tangibility and sound.
 
 💼 Looking for **Postdoc** position early/mid next year. **Please get in touch!**
 
-📬 yichen.wang@anu.edu.au | https://yichenwangs.github.io
+📬 yichen.wang@anu.edu.au | ins:yichenwangsss| https://yichenwangs.github.io 
+
 <div style="display: block; ">
 <center>
 <img src="./img/yichen-off-the-shelf.JPG" alt="cubes" height = "150" >
