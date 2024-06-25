@@ -37,14 +37,14 @@ Titled as ...
 ???
 
 It begins with this picture:
-Formally trained as a computer scientist with an artistic spirit in my soul,
-I got really hooked up - how can you make music in MR with advanced headset devices having freehand interaction.
-What kind of futuristic instrument that can be created to support playful/creative experiences, can we make it more aesthetic?
+Formally trained as a computer scientist with an artistic spirits in my soul,
+I got really hooked up by the question - how can you make music in MR with advanced headset devices having freehand interaction.
+What kind of futuristic instruments that can be created to support playful/creative experiences, can we make it more aesthetic?
 
-Having these thoughts, I started with a first-person approach -- ok 
-imagining as a musician myself computer music space - should be electronic and futuristic ...
+Having these thoughts, I started to make things 
+imagining myself as a musician trying to create tools to play - and got this one
 
-3D primitives - obviously it was not the best given the inaccuracy - but i really appreciate
+obviously it was not the best given the inaccuracy
 
 it was even worse than the electronic one - no haptic feedback
 ---
@@ -137,7 +137,7 @@ beyond realms. // Sandy Ma & Yichen Wang @ACMC 2023
 
 So far we only talk about individual experiences
 But music is fundamentally social
-So i took out this instrument to improvise with others in a collaborative context?
+what i tried next is to put out this instrument in a collaborative context?
 
 
 ---
@@ -157,7 +157,7 @@ So i took out this instrument to improvise with others in a collaborative contex
 
 --
 
-- Performance ecosystem, Entangled agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19; Morrison & McPherson CHI'24)
+- Performance ecosystem, Entangled muscial agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19; Morrison & McPherson CHI'24)
 
 
 
