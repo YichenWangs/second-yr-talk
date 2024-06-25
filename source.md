@@ -202,9 +202,12 @@ Portable across various collaborative situations through a WebSocket network inf
 ##### `*Bridging Human-AI Co-creation*`
 <center>
 <figure class="video_container">
-<video width="100%vw" height="400px" controls>
-  <source src="./img/collated-collab-ar-demo-new.mp4" type="video/mp4">
+<!-- <video width="100%vw" height="400px" controls>
+  <source src="https://youtu.be/yP2YXmvPLz0" type="video/mp4">
 </video>
+</figure> -->
+<figure class="video_container">
+<iframe width="100%vw" height="400px" src="https://www.youtube.com/embed/Ac89Qk2oPqo?si=wLeg6hhtoPoqSpg_&amp;start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </figure>
 Unpspoken // Sandy Ma & Yichen Wang @ NIME 2024 (to appear)
 <br>
