@@ -157,7 +157,7 @@ what i tried next is to put out this instrument in a collaborative context?
 
 --
 
-- Performance ecosystem, Entangled muscial agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19; Morrison & McPherson CHI'24)
+- Performance ecosystem, Entangled musical agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19; Morrison & McPherson CHI'24)
 
 
 
