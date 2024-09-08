@@ -180,6 +180,7 @@ Most importantly, as I believe we all know here, that it's not only about comple
 
 - **Spatial communication interface** for human and machine creativity.
 
+--
 
 - Two essential **musical interaction** information.
 
@@ -208,7 +209,7 @@ Unpspoken // Sandy Ma & Yichen Wang @ NIME 2024 (to appear)
 <br>
 Off-the-Self // Yichen Wang & Charles Martin @ AIMC 2024 (to appear)
 <br>
-Ongoing User Studies Snaps
+Ongoing User Study Snaps
 </center>
 
 ---
