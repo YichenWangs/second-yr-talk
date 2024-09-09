@@ -1,19 +1,23 @@
-class: center, middle
+## Yichen Wang <div style="display: inline; position:fixed;"> <img src="./img/title.png" alt="cubes" height = "70px" > </div>
 
-# On Tangible Sonic Space 
+🪩 Spatial Musical Expression (AR/VR), Co-Creativity, HCI </span>
 
-#### Spatial Musical Expression Design, Performance and in Co-creation
+📬 yichen.wang@anu.edu.au | https://yichenwangs.github.io 
 
+📍 School of Computing, Australian National University, AU/ Beijing, CHN.
 
-Yichen Wang
+<div style="display: block; ">
+<center>
+<img src="./img/yichen-off-the-shelf.JPG" alt="cubes" height = "150" >
+<img src="./img/sound-exploration.jpeg" alt="sound-exploration" height = "150px" >
+<img src="./img/unspoken-thumbnail.jpeg" alt="unspoken" height = "150px" >
+<img src="./img/collab-ar-system.png" alt="collab-ar-system" height = "150px" >
+<img src="./img/teaser-2-warm.jpg" alt="sound-exploration" height = "100px" >
+<img src="./img/study-excerpt.png" alt="study" height = "100px" >
+<img src="./img/cubing-sound-inapp.jpg" alt="cubes" height = "100px" >
+</center>
+</div>
 
-_yichen.wang@anu.edu.au_
-
-School of Computing<br>
-Australian National University <br>
-
-
-Data 61, CSIRO
 
 ???
 
@@ -49,7 +53,7 @@ obviously it was not the best given the inaccuracy
 it was even worse than the electronic one - no haptic feedback
 ---
 
-# isometric-sen
+# cube.
 #### A self-contained digital musical instrument designed for a mixed reality headset
 
 <center>
@@ -141,7 +145,7 @@ what i tried next is to put out this instrument in a collaborative context?
 
 
 ---
-### Ecological Dynamics in Digital Musical Ensemble
+### Challenges in Musical Collaboration
 
 <center>
 <img src="https://eventshow.cz/sites/default/files/eventshow/gallery/reactable_001_0.jpg" alt="sound-exploration" height = "200px" >
@@ -153,22 +157,18 @@ what i tried next is to put out this instrument in a collaborative context?
 
 --
 
-- The "visibility" issue in digital orchestras (Dahl, NIME'12; Berthaut & Dahl NIME'20); Group creativity: musical gestures for communication. (Bishop 2018)
+- The "visibility" issue in digital musical instruments and performance (Dahl, NIME'12; Berthaut & Dahl NIME'20); Group creativity: musical gestures for communication. (Bishop 2018)
 
 --
 
-- Performance ecosystem, Entangled musical agency. (Ardan Dal Ri el al. NIME'23; Frauenberger TOCHI'19; Morrison & McPherson CHI'24)
-
-
+- Mutual Engagement (Bryan-Kinns 2012, Doherty & Doherty 2018), Performance ecosystem (Ardan Dal Ri el al. NIME'23), Entangled agency. (Frauenberger TOCHI'19; Morrison & McPherson CHI'24)
 
 
 ???
 
-Fine grounded problem have been addressed in nime and hci community.
-
-First, it is about the design of the interface that can share.
-Secondly, in the specific musical context, these are grounded into the communication issue.
-Most importantly, as I believe we all know here, that it's not only about completing a task, it's performances that has many performative/experience-based flow qualities with in. 
+1.
+2. Visualisation --- the generality.
+3. The measurement of effectiveness in engagement
 
 ---
 ### Networked Collaborative Musical Expression 
@@ -214,48 +214,43 @@ Ongoing User Study Snaps
 
 ---
 
-# Outwards. 
+<center>
+<img src="./img/user-study-min.jpg" alt="collab-ar-study" width = "70%" >
+</center>
+
 --
 
-### Beyond communication
+- A user study with four pairs of musicians performing duet improvisations using different AR visualisations configuration (None, Body, Inst, Both).
 
 --
+ 
+- Assess aspects of situational awareness, mental workload, mutual engagement: surveys and interviews.
 
-<div style="display: flex; justify-content:center;">
-
-<img src="./img/som-gig.jpg" alt="collab-ar-system" height = "300px" >
-
-
-- The **metaphoric** presence of musicians in the mixed reality space.
---
-
-- The mind-body reflection during the **sound making** process.
---
-
-- It's **_always_** about creativity that brings back to us.
-
-
-???
-
-address back to tangibility and sound.
 
 ---
-## Yichen Wang <div style="display: inline; margin: 10px; position:fixed;"> <img src="./img/title.png" alt="cubes" height = "70px" > </div>
+# Key Findings
 
-🪩 Spatial Musical Expression (AR/VR), Co-Creativity, HCI </span>
+--
 
-💼 Looking for **Postdoc** position early/mid next year. **Please get in touch!**
+- With AR visualisations: increased SA, reduced workload (tho small participants pool.)
+  - The Inst helps musical ideas.
+  - The Body cues present a sense of connection.
 
-📬 yichen.wang@anu.edu.au | ins:yichenwangsss| https://yichenwangs.github.io 
+--
+- Mutual engagement via moment-to-moment visibility and cohesive interaction.
+  - _"When I could see what you were playing on the keyboard, I started to have sort of pitched, more pitch focused ideas... I was just responding to whatever harmony."_
 
-<div style="display: block; ">
+--
+- Sufficient information supply -> promotes confidence and trust in collaboration.  
+
+---
+
+# Outwards. 
+
+
+- How about bridging communication with non-human element (AI)?
+- What the entangled experience would be like?
+
 <center>
-<img src="./img/yichen-off-the-shelf.JPG" alt="cubes" height = "150" >
-<img src="./img/sound-exploration.jpeg" alt="sound-exploration" height = "150px" >
-<img src="./img/unspoken-thumbnail.jpeg" alt="unspoken" height = "150px" >
-<img src="./img/collab-ar-system.png" alt="collab-ar-system" height = "150px" >
-<img src="./img/teaser-2-warm.jpg" alt="sound-exploration" height = "100px" >
-<img src="./img/study-excerpt.png" alt="study" height = "100px" >
-<img src="./img/cubing-sound-inapp.jpg" alt="cubes" height = "100px" >
+<img src="./img/nime24-2.jpg" width="100%" >
 </center>
-</div>
